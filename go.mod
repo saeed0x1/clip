@@ -1,4 +1,4 @@
-module github.com/zerodayrat/clip
+module github.com/saeed0x1/clip
 
 go 1.19
 
